@@ -4,9 +4,17 @@
 ### Learning
 1. [Laracasts](https://laracasts.com)
 
-### Repositories
-1. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+### Tricks
 2. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
+1. [Laravel Tricks](https://laravel-tricks.com/tricks)
+2. [Laravel Cheatsheet](https://summerblue.github.io/laravel5-cheatsheet/)
+
+### Best practices
+1. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+2. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+3. [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+4. [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
+5. [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 ### Libraries
 1. [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
