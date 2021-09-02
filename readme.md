@@ -1,3 +1,10 @@
+# Laravel Notes
+In this repository you will find some notes about the best libraries, communities and practices to be followed during the development flow using the Laravel framework.
+
+Feel free to open a pull request and send your suggestion.
+
+* [Communities](#communities)
+
 ### Communities
 1. [Laravel News](https://laravel-news.com)
 2. [Laravel.io](https://laravel.io/)
