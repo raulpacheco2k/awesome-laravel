@@ -9,7 +9,6 @@
 2. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
 
 ### Libraries
-##### Developer Tools
 1. [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
 1. [Laravel Debugbar](barryvdh/laravel-debugbar)
 1. [Laravel Modules](https://github.com/nwidart/laravel-modules)
