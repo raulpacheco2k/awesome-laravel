@@ -1,5 +1,6 @@
 ### Communities
 1. [Laravel News](https://laravel-news.com)
+2. [Laravel.io](https://laravel.io/)
 
 ### Learning
 1. [Laracasts](https://laracasts.com)
