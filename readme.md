@@ -3,7 +3,14 @@ In this repository you will find some notes about the best libraries, communitie
 
 Feel free to open a pull request and send your suggestion.
 
+### Summary
 * [Communities](#communities)
+* [Learning](#learning)
+* [Tricks](#tricks)
+* [Best Practices](#best-practices)
+* [Libraries](#libraries)
+* [Roadpmap](#roadpmap)
+* [Static Code Analysis](#static-code-analysis)
 
 ### Communities
 1. [Laravel News](https://laravel-news.com)
