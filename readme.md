@@ -30,6 +30,7 @@ Feel free to open a pull request and send your suggestion.
 3. [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 4. [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
 5. [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+6. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
 
 ### Libraries
 1. [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
