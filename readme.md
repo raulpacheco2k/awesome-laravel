@@ -24,6 +24,7 @@ Feel free to open a pull request and send your suggestion.
 ### Learning
 1. [Laracasts](https://laracasts.com)
 2. [5Balloons](https://5balloons.info/laravel-tutorials-examples/)
+3. [Stitcher](https://stitcher.io/)
 
 ### Tricks
 2. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
