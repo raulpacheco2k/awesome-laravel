@@ -42,6 +42,7 @@ Feel free to open a pull request and send your suggestion.
 1. [SecurityAdvisories](https://github.com/Roave/SecurityAdvisories)
 2. [Laravel Sitemap](https://github.com/spatie/laravel-sitemap)
 3. [Laravel Sluggable](https://github.com/spatie/laravel-sluggable)
+4. [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel)
 
 ### Roadpmap
 1. [Laravel Developer Roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap)
