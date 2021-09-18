@@ -32,14 +32,16 @@ Feel free to open a pull request and send your suggestion.
 2. [Laravel Cheatsheet](https://summerblue.github.io/laravel5-cheatsheet/)
 
 ### Best practices
-1. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
-2. [Clean Code PHP](https://github.com/jupeter/clean-code-php)
-3. [SOLID](https://en.wikipedia.org/wiki/SOLID)
-4. [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-5. [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
-6. [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-7. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
-8. Clean Code
+1. [PHP FIG](https://www.php-fig.org/)
+2. [PHP The Right Way](https://phptherightway.com/)
+3. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+4. [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+5. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+6. [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+7. [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
+8. [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+9. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+10. Clean Code
    1. [Laravel Clean Architecture Example](https://github.com/sslr/laravel-clean-architecture-example)
    2. [Laravel Clean Architecture](https://github.com/merheb-scm/laravel-clean-architecture)
    3. [Clean Architecture Demo](https://github.com/duy-ly/clean-architecture-demo)
