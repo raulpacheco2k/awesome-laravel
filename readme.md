@@ -12,12 +12,18 @@ Feel free to open a pull request and send your suggestion.
 * [Roadpmap](#roadpmap)
 * [Static Code Analysis](#static-code-analysis)
 
+### Creators
+1. [Infyom](https://infyom.com/)
+2. [Spatie](https://spatie.be/)
+3. [Artesãos](https://github.com/artesaos)
+
 ### Communities
 1. [Laravel News](https://laravel-news.com)
 2. [Laravel.io](https://laravel.io/)
 
 ### Learning
 1. [Laracasts](https://laracasts.com)
+2. [5Balloons](https://5balloons.info/laravel-tutorials-examples/)
 
 ### Tricks
 2. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
