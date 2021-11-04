@@ -60,6 +60,10 @@ Feel free to open a pull request and send your suggestion.
 2. [Laravel Sitemap](https://github.com/spatie/laravel-sitemap)
 3. [Laravel Sluggable](https://github.com/spatie/laravel-sluggable)
 4. [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel)
+5. [PT-BR Validator](https://github.com/LaravelLegends/pt-br-validator)
+6. [Gravatar](https://github.com/creativeorange/gravatar)
+7. [Laravel seed migration estados cidades Brasil](https://github.com/guiliredu/laravel-seed-migration-estados-cidades-brasil)
+8. [Laravel Generator](https://github.com/InfyOmLabs/laravel-generator)
 
 ### Roadpmap
 1. [Laravel Developer Roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap)
