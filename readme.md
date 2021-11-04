@@ -75,3 +75,5 @@ Feel free to open a pull request and send your suggestion.
 
 ### Static code analysis
 1. [Larastan](https://github.com/nunomaduro/larastan)
+
+Expired on [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
