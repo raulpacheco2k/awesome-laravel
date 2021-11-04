@@ -1,4 +1,4 @@
-# Laravel Notes
+# Awesome Laravel
 In this repository you will find some notes about the best libraries, communities and practices to be followed during the development flow using the Laravel framework.
 
 Feel free to open a pull request and send your suggestion.
