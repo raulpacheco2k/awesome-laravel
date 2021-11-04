@@ -44,10 +44,12 @@ Feel free to open a pull request and send your suggestion.
 12. Clean Code
     1. [Laravel Clean Architecture Example](https://github.com/sslr/laravel-clean-architecture-example)
     2. [Laravel Clean Architecture](https://github.com/merheb-scm/laravel-clean-architecture)
-    3. [Clean Architecture Demo](https://github.com/duy-ly/clean-architecture-demo)
-    4. [laravel Clean Architecture Demo](https://github.com/bdelespierre/laravel-clean-architecture-demo)
-    5. [How to implement Clean Architecture with Laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i)
-    6. [Laravel 8.x - Clean Architecture](https://medium.com/@ms.salari/laravel-8-x-clean-architecture-523ba1e870a6)
+    3. [Clean Architecture Sample](https://github.com/nazonohito51/clean-architecture-sample)
+    4. [Clean Architecture Demo](https://github.com/duy-ly/clean-architecture-demo)
+    5. [Laravel Clean Architecture](https://github.com/okashoi/laravel-clean-architecture)
+    6. [laravel Clean Architecture Demo](https://github.com/bdelespierre/laravel-clean-architecture-demo)
+    7. [How to implement Clean Architecture with Laravel](https://dev.to/bdelespierre/how-to-implement-clean-architecture-with-laravel-2f2i)
+    8. [Laravel 8.x - Clean Architecture](https://medium.com/@ms.salari/laravel-8-x-clean-architecture-523ba1e870a6)
 
 ### Libraries
 1. [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
