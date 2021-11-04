@@ -67,6 +67,9 @@ Feel free to open a pull request and send your suggestion.
 7. [Laravel seed migration estados cidades Brasil](https://github.com/guiliredu/laravel-seed-migration-estados-cidades-brasil)
 8. [Laravel Generator](https://github.com/InfyOmLabs/laravel-generator)
 
+### Applications written in laravel
+1. [Canvas](https://github.com/austintoddj/canvas)
+
 ### Roadpmap
 1. [Laravel Developer Roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap)
 
