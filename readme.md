@@ -70,6 +70,7 @@ Feel free to open a pull request and send your suggestion.
 
 ### Applications written in laravel
 1. [Canvas](https://github.com/austintoddj/canvas)
+2. [Sylius](https://github.com/Sylius/Sylius)
 
 ### Roadpmap
 1. [Laravel Developer Roadmap](https://github.com/Hasnayeen/laravel-developer-roadmap)
