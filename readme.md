@@ -38,7 +38,10 @@ Feel free to open a pull request and send your suggestion.
 6. [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 7. [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
 8. [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-5. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+5. SOLID
+    1. [What is SOLID?](https://en.wikipedia.org/wiki/SOLID)
+    2. [Princípios SOLID Series' Articles](https://dev.to/lucascavalcante/series/6852)
+    3. [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 10. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 11. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
 12. Clean Code
