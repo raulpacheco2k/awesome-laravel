@@ -12,6 +12,8 @@ Feel free to open a pull request and send your suggestion.
 * [Roadpmap](#roadpmap)
 * [Static Code Analysis](#static-code-analysis)
 
+---
+
 ### Creators
 1. [Infyom](https://infyom.com/)
 2. [Spatie](https://spatie.be/)
