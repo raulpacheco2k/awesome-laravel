@@ -58,7 +58,7 @@ Feel free to open a pull request and send your suggestion.
     8. [Laravel 8.x - Clean Architecture](https://medium.com/@ms.salari/laravel-8-x-clean-architecture-523ba1e870a6)
 
 ### Libraries
-1. [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
+1. [Laravel Sluggable](https://github.com/spatie/laravel-sluggable)
 1. [Laravel Debugbar](barryvdh/laravel-debugbar)
 1. [Laravel Modules](https://github.com/nwidart/laravel-modules)
 1. [Laravel Repository](https://github.com/andersao/l5-repository)
