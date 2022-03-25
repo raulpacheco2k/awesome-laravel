@@ -29,9 +29,10 @@ Feel free to open a pull request and send your suggestion.
 3. [Stitcher](https://stitcher.io/)
 
 ### Tricks
-2. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
-1. [Laravel Tricks](https://laravel-tricks.com/tricks)
-2. [Laravel Cheatsheet](https://summerblue.github.io/laravel5-cheatsheet/)
+1. [Laravel Tips](https://github.com/LaravelDaily/laravel-tips)
+2. [Laravel Tricks](https://laravel-tricks.com/tricks)
+3. [Laravel Cheatsheet](https://summerblue.github.io/laravel5-cheatsheet/)
+4. [Lara Tutorials](https://laratutorials.com/)
 
 ### Best practices
 1. [PHP FIG](https://www.php-fig.org/)
