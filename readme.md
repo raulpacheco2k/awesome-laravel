@@ -66,7 +66,6 @@ Feel free to open a pull request and send your suggestion.
 1. [Sanitizer](https://github.com/elegantweb/sanitizer)
 1. [SecurityAdvisories](https://github.com/Roave/SecurityAdvisories)
 2. [Laravel Sitemap](https://github.com/spatie/laravel-sitemap)
-3. [Laravel Sluggable](https://github.com/spatie/laravel-sluggable)
 4. [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel)
 5. [PT-BR Validator](https://github.com/LaravelLegends/pt-br-validator)
 6. [Gravatar](https://github.com/creativeorange/gravatar)
