@@ -46,8 +46,9 @@ Feel free to open a pull request and send your suggestion.
     2. [Princípios SOLID Series' Articles](https://dev.to/lucascavalcante/series/6852)
     3. [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 10. [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
-11. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
-12. Clean Code
+11. [Laravel Naming Conventions](https://webdevetc.com/blog/laravel-naming-conventions/)
+12. [Arrange Act Assert (AAA)](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80)
+13. Clean Code
     1. [Laravel Clean Architecture Example](https://github.com/sslr/laravel-clean-architecture-example)
     2. [Laravel Clean Architecture](https://github.com/merheb-scm/laravel-clean-architecture)
     3. [Clean Architecture Sample](https://github.com/nazonohito51/clean-architecture-sample)
